@@ -5,3 +5,7 @@ simple golang terminal application runs video transcode for javafx video applica
 go get github.com/magiconair/properties  
 go get github.com/jroimartin/gocui  
 go get github.com/nsf/termbox-go
+
+go install <$GOPATH to src code>  
+$GOPATH/bin/v-stream-util
+
